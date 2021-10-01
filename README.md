@@ -7,8 +7,8 @@
 </h5>
 <hr>
 
-- 🔭 I’m currently working on [Drogaria Araujo](https://www.araujo.com.br/?gclid=Cj0KCQiA-aGCBhCwARIsAHDl5x8tH7BpuPvXZxwDP89dU8ZdaGrLQ7zvH2vtHlcbefhCIQaZ-pAO-mYaAj0NEALw_wcB)
-- 🌱 I’m currently learning Web Dev
+- 🔭 I’m currently working on [Homelend](https://hl.homelend.com.br/)
+- 🌱 I’m currently learning Web Dev, data analytics and back end development.
 - 👯 I’m looking to collaborate on open source projects!
 <hr>
 
