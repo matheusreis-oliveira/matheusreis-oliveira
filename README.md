@@ -8,7 +8,7 @@
 <hr>
 
 - 🔭 I’m currently working on [Homelend](https://hl.homelend.com.br/)
-- 🌱 I’m currently learning Web Dev, data analytics and back end development.
+- 🌱 I’m currently learning data analytics and back end development.
 - 👯 I’m looking to collaborate on open source projects!
 <hr>
 
