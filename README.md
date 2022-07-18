@@ -8,8 +8,8 @@
 </h5>
 <hr>
 
-- 🔭 I’m currently working on [Homelend](https://hl.homelend.com.br/)
-- 🌱 I’m currently learning data analytics and back end development.
+- 🔭 I’m currently working on [SIC](https://bh.santoagostinho.com.br//)
+- 🌱 I’m currently learning back end development.
 - 👯 I’m looking to collaborate on open source projects!
 
 <hr>
