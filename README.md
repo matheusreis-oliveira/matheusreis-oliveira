@@ -12,6 +12,9 @@
 - 🌱 I’m currently learning back end development.
 - 👯 I’m looking to collaborate on open source projects!
 
+###
+![!](https://komarev.com/ghpvc/?username=matheusreis-oliveira&color=006699)
+
 <hr>
 
 📈 My GitHub Stats
@@ -25,3 +28,22 @@
   </a>
 </p>
 <hr>
+
+### Technologies
+![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
+
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
+
+![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
+
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+
+![Jira](https://img.shields.io/badge/-Jira-fff?style=flat&logo=jira-software&logoColor=blue)
+
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
+
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+
+![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
