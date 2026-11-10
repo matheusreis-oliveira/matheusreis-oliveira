@@ -3,8 +3,6 @@ Back-end developer, lover of technology, OOP and databases, future Microsoft MVP
 
 I believe that technology can transform the world and people's lives.
 
-I currently working at [Rede Lius Agostinianos](https://santoagostinho.com.br/)
-
  ### [<img src="https://img.shields.io/badge/matheusreis-oliveira?style=flat&logo=linkedin&color=blue" />](https://www.linkedin.com/in/matheusdosreissouzaoliveira/)  [<img src = "https://img.shields.io/badge/matheusreis-oliveira?Instagram?style=flat&logo=instagram&color=purple&logo-color=white">](https://www.instagram.com/_reis_matheus/) 
  
 ### 💻 Technologies 
